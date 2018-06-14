@@ -1,0 +1,44 @@
+/* add your CSS here */
+#container{
+  width:350px;
+  border:1px solid #efefef;
+  margin: auto;
+  padding: 5px 5px 10px 5px;
+  /*border-style: none;*/
+  font-family: serif;
+  /*box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);*/
+  /*box-shadow: 10px 10px 5px #aaaaaa;*/
+  box-shadow: 0.4em 0.4em 1em #aaaaaa; 
+}
+h1{
+  padding:5%;
+  margin:auto;
+}
+img{
+  width:300px;
+  /*height:200px;*/
+  margin:auto;
+  padding:5%;
+}
+#card{
+  width: 300px;
+  border:1px solid #bfbfbf;
+  text-align: justify;
+  margin:auto;
+  padding:5%;
+}
+
+#interesting-fact{
+  font-style: italic;
+}
+#facts{
+  list-style-type: none;
+  padding-left: 0;
+}
+.labels{
+  font-weight: bold;
+}
+.animal-info{
+  background-color:#fff;
+}
+  
